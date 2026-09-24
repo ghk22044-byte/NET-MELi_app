@@ -1,0 +1,13 @@
+{
+  "name": "net-neli-server",
+  "version": "1.0.0",
+  "description": "سرور اختصاصی برنامه‌ی NET NELI — بدون هیچ وابستگی npm",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "UNLICENSED"
+}
